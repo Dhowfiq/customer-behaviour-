@@ -73,15 +73,15 @@ Main Focus:
 ## 📸 Sample Visualizations  
 
 <p align="center">
-  <img src="screenshots/sales_trends.png" width="600"/>
+  <img src="https://github.com/Dhowfiq/customer-behaviour-/blob/main/Screenshot%202025-10-03%20213719.png" width="600"/>
   <br>
-  <i>Sales trends by month showing seasonal peaks</i>
+  <i>Product Browsing Time vs. Total Pages Viewed</i>
 </p>  
 
 <p align="center">
-  <img src="screenshots/rfm_segmentation.png" width="600"/>
+  <img src="https://github.com/Dhowfiq/customer-behaviour-/blob/main/Screenshot%202025-10-03%20214228.png" width="600"/>
   <br>
-  <i>RFM segmentation of customer base</i>
+  <i>Funnel Analysis</i>
 </p>  
 
 ---
